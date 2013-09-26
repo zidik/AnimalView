@@ -1,6 +1,6 @@
 # -*- mode: python -*-
 a = Analysis(['main.py'],
-             pathex=['P:\\Eclipse_workspace\\Loodusmuuseum'],
+             pathex=['P:\\My Documents\\GitHub\\AnimalView'],
              hiddenimports=[],
              hookspath=None,
              runtime_hooks=None)
